@@ -1,0 +1,18 @@
+[
+  {
+    "cep": "01001-000",
+    "logradouro": "Praça da Sé",
+    "complemento": "lado ímpar",
+    "bairro": "Sé",
+    "localidade": "São Paulo",
+    "uf": "SP"
+  },
+  {
+    "cep": "02238-000",
+    "logradouro": "Avenida Sanatório",
+    "complemento": "",
+    "bairro": "Jardim Modelo",
+    "localidade": "São Paulo",
+    "uf": "SP"
+  }
+]
